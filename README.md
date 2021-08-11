@@ -43,37 +43,37 @@
     ArrayList<T>, LinkedList<T>, HashMap<T>, Comparator 등
     오버로딩, 오버라이딩
 
--DBMS
+- DBMS
 Oracle Procedure, View 등 SQL DML, DDL
 
--JDBC
+- JDBC
 Connection, PreparedStatement, ResultSet
 
--HTML5, CSS, JavaScript
+- HTML5, CSS, JavaScript
 HTML, CSS, JavaScript 응용
 
--JSP
+- JSP
 JSTL 문법, EL문법
 
--Servlet
+- Servlet
 가상주소, Dispatcher, request, response 등
 
--Bootstrap5
+- Bootstrap5
 layout, content, forms, icon 등
 
--Jquery
+- Jquery
 Ajax 기능 구현에 필요한 메소드 등 
 
--Jquery-UI
+- Jquery-UI
 Calander, Draggable, Sorttable
 
--JSTL
+- JSTL
 서블릿에서 받은 정보를 jsp에서 출력하기 위함.
 
--Kakao API
+- Kakao API
 지도API 
 
--Javascript
+- Javascript
 카카오 API 호출 후 JavaSciprt로 재가공, 데이터 정제, 데이터 계산, 데이터 출력
 
 
