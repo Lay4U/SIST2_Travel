@@ -39,42 +39,40 @@
 ## Tech
 
 - Java
-    컬렉션
-    ArrayList<T>, LinkedList<T>, HashMap<T>, Comparator 등
-    오버로딩, 오버라이딩
+    - 컬렉션 ArrayList<T>, LinkedList<T>, HashMap<T>, Comparator 등 오버로딩, 오버라이딩
 
 - DBMS
-Oracle Procedure, View 등 SQL DML, DDL
+    - Oracle Procedure, View 등 SQL DML, DDL
 
 - JDBC
-Connection, PreparedStatement, ResultSet
+    - Connection, PreparedStatement, ResultSet
 
 - HTML5, CSS, JavaScript
-HTML, CSS, JavaScript 응용
+    - HTML, CSS, JavaScript 응용
 
 - JSP
-JSTL 문법, EL문법
+    - JSTL 문법, EL문법
 
 - Servlet
-가상주소, Dispatcher, request, response 등
+    - 가상주소, Dispatcher, request, response 등
 
 - Bootstrap5
-layout, content, forms, icon 등
+    - layout, content, forms, icon 등
 
 - Jquery
-Ajax 기능 구현에 필요한 메소드 등 
+     - Ajax 기능 구현에 필요한 메소드 등 
 
 - Jquery-UI
-Calander, Draggable, Sorttable
+    - Calander, Draggable, Sorttable
 
 - JSTL
-서블릿에서 받은 정보를 jsp에서 출력하기 위함.
+     - 서블릿에서 받은 정보를 jsp에서 출력하기 위함.
 
 - Kakao API
-지도API 
+     - 지도API 
 
 - Javascript
-카카오 API 호출 후 JavaSciprt로 재가공, 데이터 정제, 데이터 계산, 데이터 출력
+     - 카카오 API 호출 후 JavaSciprt로 재가공, 데이터 정제, 데이터 계산, 데이터 출력
 
 
 
