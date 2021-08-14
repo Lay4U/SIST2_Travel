@@ -95,13 +95,13 @@
  
  ## Develope Enviroment
 - platform
- - Windows, Mac, Chrome
+   - Windows, Mac, Chrome
 - JAVA version(Language)
- - JDK 1.8
+   - JDK 1.8
 - Eclipse version(Development tool)
- - Version: 2021-06 (4.20.0) Build id: 20210612-2011
+   - Version: 2021-06 (4.20.0) Build id: 20210612-2011
 - Tool
- - Eclipse, SQL Developer, IntelliJ, SourceTree, Slack 
+   - Eclipse, SQL Developer, IntelliJ, SourceTree, Slack 
 - Language
- - JAVA, JSP, Servlet, HTML, CSS, JavaScript, PL/SQL,Oracle
+   - JAVA, JSP, Servlet, HTML, CSS, JavaScript, PL/SQL,Oracle
 
